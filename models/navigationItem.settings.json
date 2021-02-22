@@ -73,6 +73,9 @@
       "required": false,
       "configurable" : false
     },
+    "CoverURL": {
+      "type": "string"
+    },
     "audience": {
       "collection": "audience",
       "plugin": "navigation"
