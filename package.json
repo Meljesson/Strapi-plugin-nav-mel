@@ -1,18 +1,19 @@
 {
-  "name": "strapi-plugin-nav-mel",
+  "name": "strapi-mel",
   "version": "1.0.0",
-  "description": "Strapi - Navigation plugin",
+  "description": "strapi mel",
   "strapi": {
     "name": "Navigation",
     "icon": "hamburger",
     "description": "UI navigation management"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Meljesson/Strapi-plugin-nav-mel"
-  },
+
   "scripts": {
     "test:unit": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meljesson/Strapi-plugin-nav-mel.git"
   },
   "dependencies": {
     "@types/uuid": "^8.3.0",
@@ -40,22 +41,14 @@
     "jest-styled-components": "^7.0.2",
     "codecov": "^3.7.2"
   },
-  "author": {
-    "name": "Mel Jesson",
-    "email": "meljesson.g.cabrera@students.cookman.edu",
-    "url": "https://github.com/Meljesson/Strapi-plugin-nav-mel"
-  },
-  "maintainers": [
-    {
-      "name": "Mel Jesson",
-      "email": "meljesson.g.cabrera@students.cookman.edu",
-      "url": "https://github.com/Meljesson/Strapi-plugin-nav-mel"
-    }
-  ],
   "engines": {
     "node": ">=10.16.0",
     "npm": ">=6.0.0"
   },
-  "keywords": ["strapi", "plugin", "navigation"],
-  "license": "MIT"
+  "author": "mel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Meljesson/Strapi-plugin-nav-mel/issues"
+  },
+  "homepage": "https://github.com/Meljesson/Strapi-plugin-nav-mel#readme"
 }
