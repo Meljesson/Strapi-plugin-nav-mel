@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-navigation",
-  "version": "1.0.0-beta.14",
+  "version": "1.0.0",
   "description": "Strapi - Navigation plugin",
   "strapi": {
     "name": "Navigation",
@@ -41,15 +41,15 @@
     "codecov": "^3.7.2"
   },
   "author": {
-    "name": "VirtusLab // Mateusz Ziarko",
-    "email": "mziarko@virtuslab.com",
-    "url": "https://virtuslab.com"
+    "name": "Mel Jesson",
+    "email": "meljesson.g.cabrera@students.cookman.edu",
+    "url": "https://github.com/Meljesson/Strapi-plugin-nav-mel"
   },
   "maintainers": [
     {
-      "name": "VirtusLab // Mateusz Ziarko",
-      "email": "mziarko@virtuslab.com",
-      "url": "https://virtuslab.com"
+      "name": "Mel Jesson",
+      "email": "meljesson.g.cabrera@students.cookman.edu",
+      "url": "https://github.com/Meljesson/Strapi-plugin-nav-mel"
     }
   ],
   "engines": {
