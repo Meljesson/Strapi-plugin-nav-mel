@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/VirtusLab/strapi-plugin-navigation"
+    "url": "https://github.com/Meljesson/Strapi-plugin-nav-mel"
   },
   "scripts": {
     "test:unit": "jest --verbose --coverage"
